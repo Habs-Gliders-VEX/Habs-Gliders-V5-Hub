@@ -11,7 +11,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝     ╚═════╝ ╚══════╝╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝
 ```
 
-# Habs Gliders V5 Hub · 34071B
+# The award winning Habs Gliders V5 Hub · 34071B
 
 **Strategy, scouting, and competition companion app for Team 34071B**  
 Built by [Kayan Shah](https://github.com/KayanShah), Team Leader · **HABS Gliders 34071B**
